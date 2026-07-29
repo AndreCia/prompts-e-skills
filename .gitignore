@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Node, caso scripts de automação entrem no futuro
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Temporários
+*.tmp
+*.log
+rascunhos/
