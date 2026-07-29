@@ -72,10 +72,22 @@ Na ordem, sem inventar seções novas:
 3. `## O prompt`, com o texto dentro de um bloco de código. Bloco de código é
    obrigatório, porque é o que ativa o botão de copiar do GitHub.
 4. `## O que trocar`, listando cada variável `ENTRE_CHAVES` e o que colocar.
+   Quando o prompt não tem variável nenhuma, troque esta seção por
+   `## Como usar` e descreva o que o prompt exige para funcionar, como enviar
+   uma imagem junto ou rodar em uma ferramenta específica. Seção vazia é pior
+   que seção adaptada.
 5. `## Dicas`, opcional, com ajustes e variações.
 6. `## Exemplo de resultado`, opcional.
 
 Variáveis sempre em maiúsculas entre chaves: `{PUBLICO_ALVO}`, `{PRODUTO}`.
+
+Imagens de exemplo vão em `assets/`, em JPG, com no máximo 400 KB e largura
+de 1000 a 1200 pixels. Comprima antes de versionar, porque imagem pesada fica
+no histórico do git para sempre:
+
+```bash
+sips -s format jpeg -s formatOptions 68 --resampleWidth 1000 entrada.png --out assets/saida.jpg
+```
 
 ---
 
