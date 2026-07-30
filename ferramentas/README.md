@@ -24,6 +24,12 @@ A coluna Preço indica o que dá para fazer sem pagar nada.
 |---|---|---|
 | [Claude Code](https://claude.com/claude-code) | IA que trabalha direto no seu terminal e nos seus arquivos | Pago |
 
+## Automação de navegador
+
+| Ferramenta | O que faz | Preço |
+|---|---|---|
+| [Claude para Chrome](https://claude.com/chrome) | Extensão que deixa o Claude navegar e ler páginas na sua sessão logada | Pago, conforme o plano |
+
 ---
 
 ## Sugestões

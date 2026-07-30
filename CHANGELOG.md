@@ -8,6 +8,23 @@ Para ser avisado assim que sair material novo, siga
 
 ---
 
+## 30/07/2026
+
+**Novo prompt em Negócios, seção Instagram.**
+
+- Ranking de engajamento dos concorrentes no Instagram. O Claude abre o seu
+  navegador já logado, coleta os últimos 9 posts de cada concorrente e devolve
+  um relatório HTML com todos os posts numa tabela única, ordenada por
+  engajamento, sem separar por perfil. Funciona com lista de concorrentes ou
+  descobrindo perfis a partir de um termo.
+
+**Nova ferramenta na lista.**
+
+- Claude para Chrome, a extensão que o prompt acima exige para navegar dentro
+  da sua sessão logada.
+
+---
+
 ## 29/07/2026
 
 **Novo prompt em Imagens.**
