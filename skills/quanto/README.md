@@ -16,7 +16,31 @@ Todo turno da conversa reenvia o mesmo bloco fixo:
 
 Ninguém instala uma skill pensando "isso vai custar 200 tokens por mensagem pelo resto da vida". Mas custa. Com dezenas de skills instaladas, a conta aparece.
 
-## Instalação
+## Instalação em um passo
+
+Abra o Claude Code, cole o prompt abaixo e aperte enter. Ele instala tudo e já
+roda o primeiro diagnóstico para você.
+
+```
+Instale a skill "quanto" no meu Claude Code. Faça assim:
+
+1. Clone https://github.com/AndreCia/prompts-e-skills.git numa pasta
+   temporária, usando --depth 1.
+2. Copie a pasta skills/quanto de lá para ~/.claude/skills/quanto.
+   Se já existir uma pasta com esse nome, pare e me avise antes de substituir.
+3. Apague a pasta temporária.
+4. Tente instalar o tiktoken com pip. É opcional, serve para a contagem ficar
+   mais precisa. Se falhar, siga em frente sem ele.
+5. Rode: python3 ~/.claude/skills/quanto/scripts/raio_x.py
+6. Me mostre a saída completa e diga em uma frase o que mais pesa no meu
+   contexto.
+```
+
+Depois disso, é só pedir `/quanto` sempre que quiser medir de novo.
+
+### Instalação manual
+
+Se preferir fazer à mão:
 
 1. Baixe a pasta `quanto`.
 2. Copie ela para `~/.claude/skills/` no seu computador.
