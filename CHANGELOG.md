@@ -8,6 +8,19 @@ Para ser avisado assim que sair material novo, siga
 
 ---
 
+## 31/07/2026
+
+**Nova skill: Raio-x de contexto.**
+
+- Mede quanto do seu contexto o Claude Code já consome antes de você digitar a
+  primeira palavra, e mostra de onde vem: CLAUDE.md, a description de cada
+  skill instalada, o que os hooks injetam, subagentes e servidores MCP. Esse
+  bloco é reenviado em toda mensagem, não uma vez por sessão. A skill só
+  diagnostica, nunca altera o setup. O README traz os 7 desperdícios de
+  contexto mais comuns e o que fazer com cada um.
+
+---
+
 ## 30/07/2026
 
 **Novo prompt em Negócios, seção Instagram.**
