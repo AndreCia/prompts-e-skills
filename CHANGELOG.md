@@ -10,6 +10,14 @@ Para ser avisado assim que sair material novo, siga
 
 ## 01/10/2026
 
+**Nova página em Skills: 25 skills de imagem para o Codex.**
+
+- 25 efeitos para transformar fotos com o GPT Imagens no Codex: Lego,
+  Minecraft, massinha, origami, raio-x, derreter, gigante, submerso,
+  gravidade zero, fliperama e mais 15. A instalação é com um link: cola no
+  Codex e ele baixa e instala as 25. Tem também a instalação manual, a tabela
+  de comandos e o antes e depois de cada efeito, com o crédito das fotos.
+
 **Nova página em Skills: 10 skills úteis.**
 
 - Dez skills gratuitas de outros autores, com crédito e link de cada uma:
