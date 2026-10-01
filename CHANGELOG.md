@@ -8,6 +8,18 @@ Para ser avisado assim que sair material novo, siga
 
 ---
 
+## 01/10/2026
+
+**Nova página em Skills: 10 skills úteis.**
+
+- Dez skills gratuitas de outros autores, com crédito e link de cada uma:
+  humanizer, copywriting, lead-magnets, offers, ads, prospecting,
+  competitor-profiling, last30days, mcp-builder e skill-creator. Tem um
+  prompt para o Claude Code instalar as dez sozinho e os quatro comandos para
+  quem prefere o terminal.
+
+---
+
 ## 31/07/2026
 
 **Nova skill: Raio-x de contexto.**

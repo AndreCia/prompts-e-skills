@@ -11,5 +11,6 @@ Instalação em um minuto:
 |---|---|
 | [Organizador de links](exemplo-organizador-de-links/) | Recebe links soltos, classifica por tema e devolve uma lista organizada em Markdown |
 | [Raio-x de contexto](quanto/) | Mostra quanto do seu contexto o setup já consome antes da primeira palavra, e o que cortar |
+| [10 skills úteis](10-skills/) | Dez skills gratuitas de outros autores para texto, vendas, pesquisa e automação, com instalação em um passo |
 
 Voltar para a [página inicial](../README.md).
